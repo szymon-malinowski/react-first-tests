@@ -1,5 +1,11 @@
+import CounterCard from "./components/CounterCard";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <CounterCard />
+    </>
+  );
 }
 
 export default App;
